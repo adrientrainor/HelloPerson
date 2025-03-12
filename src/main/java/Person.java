@@ -5,8 +5,7 @@ public class Person
 	String lname;
 	int age;
 	
-	public Person(String fname, String lname, int age)
-	{
+	public Person(String fname, String lname, int age) {
 		super();
 		this.fname = fname;
 		this.lname = lname;
@@ -34,24 +33,20 @@ public class Person
 	}
 
 // get/set fname
-	public String getFname()
-	{
+	public String getFname() {
 		return fname;
 	}
 
-	public void setFname(String fname)
-	{
+	public void setFname(String fname) {
 		this.fname = fname;
 	}
 
 // get/set lname
-	public String getLname()
-	{
+	public String getLname() {
 		return lname;
 	}
 
-	public void setLname(String lname)
-	{
+	public void setLname(String lname) {
 		this.lname = lname;
 	}
 
