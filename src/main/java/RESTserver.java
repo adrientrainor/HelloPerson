@@ -16,7 +16,7 @@ public class RESTserver {
 
 	public static void main(String argv[]) {
 		// for all courses:
-		// get course name & instructor
+		// get course name & instructor 
 		
 		// cd-hydra.centre.edu:9000/v1/Archive/course
 			// ^ get course address from here
